@@ -11,6 +11,20 @@ see the `.github/` folder for an example of how to set up GitHub Actions
 
 check out the "scripts" section in `package.json` for helpful command-line shortcurs
 
+## Running Locally
+
+you'll need node v14+ installed, either from [nodejs.org](https://nodejs.org/en/)
+
+or using NVM
+ - [linux, mac](https://github.com/nvm-sh/nvm#installing-and-updating)
+ - [windows](https://github.com/coreybutler/nvm-windows#installation--upgrades)
+
+the same commands as the CI server can be run locally
+
+    npm install # do this once
+    npm run check
+    npm test
+
 ## EditorConfig
 
 [EditorConfig](https://editorconfig.org/) is a quick way to standardize whitespace formatting between developers.
