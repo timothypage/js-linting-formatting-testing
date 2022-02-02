@@ -21,6 +21,10 @@ You might need a plugin:
 
 ## Quick Links
 
+SonarLint is one way to take things further (requires Java)
+
+ - [SonarLint Plugin For VSCode](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode)
+
 ESLint
 
  - [Configuring Rules in ESLint](https://eslint.org/docs/user-guide/configuring/rules#configuring-rules)
