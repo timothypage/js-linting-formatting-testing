@@ -30,6 +30,8 @@ ESLint
 Prettier
 
  - [Configuring Prettier](https://prettier.io/docs/en/configuration.html)
+ - [VSCode Plugin](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+ - [Sublime Text Plugin](https://github.com/jonlabelle/SublimeJsPrettier#readme)
 
 
 Jest
